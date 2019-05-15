@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeclaracaoICMS", "DeclaracaoICMS\DeclaracaoICMS.csproj", "{F74D2199-E796-456E-AEC0-8CC9F027E1C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnviarPLI", "EnviarPLI\EnviarPLI.csproj", "{B15CAD3C-DE3D-47C7-A5AC-DEFF0E70AA72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F74D2199-E796-456E-AEC0-8CC9F027E1C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74D2199-E796-456E-AEC0-8CC9F027E1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F74D2199-E796-456E-AEC0-8CC9F027E1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74D2199-E796-456E-AEC0-8CC9F027E1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B15CAD3C-DE3D-47C7-A5AC-DEFF0E70AA72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15CAD3C-DE3D-47C7-A5AC-DEFF0E70AA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15CAD3C-DE3D-47C7-A5AC-DEFF0E70AA72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15CAD3C-DE3D-47C7-A5AC-DEFF0E70AA72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43E47EED-3CEF-4FB6-BA0C-45B09301D97D}
+	EndGlobalSection
+EndGlobal

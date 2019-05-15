@@ -1,0 +1,26 @@
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\obj\Debug\DeclaracaoICMS.csprojAssemblyReference.cache
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\obj\Debug\DeclaracaoICMS.ExoneracaoICMS.resources
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\obj\Debug\DeclaracaoICMS.Properties.Resources.resources
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\obj\Debug\DeclaracaoICMS.csproj.GenerateResource.cache
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\obj\Debug\DeclaracaoICMS.csproj.CoreCompileInputs.cache
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\bin\Debug\phantomjs.exe
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\bin\Debug\phantomjs-license.txt
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\bin\Debug\DeclaracaoICMS.exe.config
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\bin\Debug\DeclaracaoICMS.exe
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\bin\Debug\DeclaracaoICMS.pdb
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\bin\Debug\Ionic.Zip.dll
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\bin\Debug\Selenium.Utils.dll
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\bin\Debug\WebDriver.dll
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\bin\Debug\WebDriver.Support.dll
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\bin\Debug\WebDriver.xml
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\bin\Debug\WebDriver.Support.xml
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\obj\Debug\DeclaracaoICMS.csproj.CopyComplete
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\obj\Debug\DeclaracaoICMS.exe
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\obj\Debug\DeclaracaoICMS.pdb
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\bin\Debug\Certificado\.pem
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\bin\Debug\Certificado\client-certificate.crt
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\bin\Debug\Certificado\client-certificate.key
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\bin\Debug\Certificado\client.pem
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\bin\Debug\Certificado\ENDERSON RUIZ DE CASTRO67635466291.cer
+C:\Users\julio.bicharra.ITRIAD\source\repos\DeclaracaoICMS\DeclaracaoICMS\bin\Debug\Certificado\ENDERSON RUIZ DE CASTRO67635466291.pfx
